@@ -35,8 +35,6 @@ Backend: Node.js with Express.js provided the server-side functionality, includi
 
 Database: MongoDB was employed for storing user data, property details, and messages.
 
-Deployment: The project was hosted on platforms like Heroku or Netlify, ensuring accessibility.
-
 ## Learning Outcomes:
 Technical Skills:
 
